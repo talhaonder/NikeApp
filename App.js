@@ -1,15 +1,12 @@
 import React from 'react'
 import AppNavigation from './navigation/AppNavigation'
-import { StyleSheet, Text, View, StatusBar, Image } from 'react-native';
+import { StyleSheet, View, StatusBar, } from 'react-native';
+import ProductsScreen from './src/screens/ProductsScreen';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Image source={{
-        uri: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1.png"
-      }}
-        style={styles.image}
-      />
+      <ProductsScreen />
       <StatusBar styles="auto" />
     </View>
   );
@@ -22,8 +19,4 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  image: {
-    width: "100%",
-    aspectRatio: 1,
-  }
 });
