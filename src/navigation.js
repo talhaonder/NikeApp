@@ -22,7 +22,7 @@ const Navigation = () => {
                     options={({ navigation }) => ({
                         headerRight: () => (
                             <Pressable onPress={() => navigation.navigate('Cart')} style={{flexDirection: "row"}}>
-                                <Icon name="shopping-cart" size={21}/>
+                                <Icon name="shopping-cart" size={21}/> 
                                 <Text style={{marginLeft: 5, fontWeight: '500'}}>1</Text>
                             </Pressable>
                         )
