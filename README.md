@@ -3,7 +3,12 @@ March 2024 - April 2024
 Explore and shop the latest Nike shoes with our intuitive and seamless mobile application. Our app enhances your shopping experience with its user-friendly interface and fast performance. Here are some features our app offers:
 
 ## Preview
-Nike ShoesNike ShoesNike ShoesNike ShoesNike Shoes
+<img src="https://github.com/user-attachments/assets/011592ee-6608-49ab-8781-17ce68460336" alt="HomeScreen" width="300"/>
+<img src="https://github.com/user-attachments/assets/44bb673f-dbd7-4e48-a278-135c1515e32b" alt="Location Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/35da4bb0-47b5-4df6-9847-ffd652d0893e" alt="Location Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/97896471-044e-4af4-b67d-90309083e116" alt="Location Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/b939bdcd-53ba-4010-8b09-dfa4b85ccd76" alt="Location Screen" width="300"/>
+
 
 ## TR
 Nike ayakkabılarının en son modellerini keşfedin ve mobil uygulamamız ile sorunsuz bir alışveriş deneyimi yaşayın. Uygulamamız, kullanıcı dostu arayüzü ve hızlı performansı ile alışverişinizi kolaylaştırır. İşte uygulamamızın sunduğu bazı özellikler:
